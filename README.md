@@ -1,7 +1,7 @@
 # React-Counter (tested)
 
 ### Description
-> **An example developing with React JS, this app is a simple counter, the app was tested with snapshots and  unit testing **
+> **An example developing with React JS, this app is a simple counter, the app was tested with snapshots and  unit testing**
 
 ## Technologies employed
 
