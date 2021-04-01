@@ -9,7 +9,7 @@ const PrimerApp = ({ saludo, subtitle }) => {
     Se pueden enviar  INTS,Strings,doubles pero NO Booleans    
     */
     <>
-      <h1>{saludo}</h1>
+      <h1> {saludo} !!!</h1>
       {/* <pre>{JSON.stringify(saludo, null, 3)}</pre> */}
       <p>{subtitle}</p>
     </>
